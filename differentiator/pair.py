@@ -10,15 +10,17 @@ def pretty_print_ast(poly):
     if isinstance(poly, list):
         assert len(poly) == 3
         op, p1, p2 = poly
-        return pretty_print_ast(p1) + op + pretty_print_ast(p2)
+        return "(" + pretty_print_ast(p1) + op + pretty_print_ast(p2) + ")"
     else:
         return str(poly)
     # elif isinstance(poly, (int,float)):
     #     return str(poly)
 
-# print(pretty_print_ast(poly_1))
-# print(pretty_print_ast(poly_2))
-# print(pretty_print_ast(poly_3))
+print(pretty_print_ast(poly_1))
+print(pretty_print_ast(poly_2))
+print(pretty_print_ast(poly_3))
+print(pretty_print_ast(poly_4))
+
 
 def padding(l1, l2):
     n = max(len(l1), len(l2))
