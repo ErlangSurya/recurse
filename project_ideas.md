@@ -1,9 +1,15 @@
 
 ## AI
 - Learn just enough theory to train GPT-2 and understand its mechanism.
-- fine-tune/modify LLM models: humanizing, removing (or adding??) censorship, golden gating (https://www.anthropic.com/research/golden-gate-claude), etc
-- Play with decision models. In particular I want to build a calibration benchmark and see if I can harness the model to improve calibration.
+- fine-tune/modify LLM models:
+  - humanizing
+  - removing (or adding??) censorship
+  - golden gating (https://www.anthropic.com/research/golden-gate-claude)
+- Play with decision models:
+  - Build a calibration benchmark
+  - Create harness that improves probability calibration
 - Small RL model that can play bullet (https://erlangsurya.com/fun/raylib-game/)
+  - Probably will use Puffer https://puffer.ai/
 
 
 ## Networking, cybersecurity, hardware
