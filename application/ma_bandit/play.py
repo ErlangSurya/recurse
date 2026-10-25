@@ -1,5 +1,5 @@
-from samplers import *
-from problem import *
+from application.ma_bandit.samplers import *
+from application.ma_bandit.problem import *
 
 N = 5
 TURNS = 20

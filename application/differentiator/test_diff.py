@@ -1,4 +1,4 @@
-from polynomial_diff import evaluate, diff
+from application.differentiator.polynomial_diff import evaluate, diff
 
 poly_1 = ["+", ["*", 3, "x"], 5] # 3x+5
 poly_2 = ["-", ["^", "x", 3], 7] # x^3-7

@@ -1,4 +1,4 @@
-from polynomial_diff import *
+from application.differentiator.polynomial_diff import *
 
 
 poly_1 = ["+", ["*", 3, "x"], 5] # 3x+5
