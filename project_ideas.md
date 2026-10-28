@@ -20,13 +20,14 @@
 - Hacking a cheap CCTV (with the help of an abliterated model), then digging deep until I understand all the moving parts of the attack.
   - Very uncertain. No idea at all how feasible this is (unless I buy a CCTV model which is known to be vulnerable).
 
-## Fun
+## Other fun stuff
 - Rubik’s cube blindfolded solving trainer
 - Generative art (https://erlangsurya.com/fun/tools/)
+- AI proof captcha
+- RAG on major religious texts
+- Reverse engineer OG lemonade tycoon. Make it playable on modern mac.
 - Memory trainer: Shuffle a deck of card, turn the card sequence to PAO (maybe with LLM!)
 - A non-trivial fast program i.e. not python slop. Probably just try to solve 1000000 Rubik's cube scramble as fast as possible on my machine.
-
-## Other
 - Figure out how Generative Engine Optimization (GEO) works:
   - I have a small website for Indonesian math contest problems and results, might be fun to GEO-maxx the site.
 - Learn some formal verification. I'm not here to play school though so hopefully I can figure out a nice project to build around this topic.
