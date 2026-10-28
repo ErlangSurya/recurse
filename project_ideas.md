@@ -25,7 +25,7 @@
 - Generative art (https://erlangsurya.com/fun/tools/)
 - AI proof captcha
 - RAG on major religious texts
-- Reverse engineer OG lemonade tycoon. Make it playable on modern mac.
+- Make OG lemonade tycoon natively playable on modern mac.
 - Memory trainer: Shuffle a deck of card, turn the card sequence to PAO (maybe with LLM!)
 - A non-trivial fast program i.e. not python slop. Probably just try to solve 1000000 Rubik's cube scramble as fast as possible on my machine.
 - Figure out how Generative Engine Optimization (GEO) works:
