@@ -2,7 +2,7 @@
 ## AI
 - Learn just enough theory to train GPT-2 and understand its mechanism.
 - fine-tune/modify LLM models:
-  - Humanizing
+  - Watermarking. Humanizing
   - Removing (or adding??) censorship
   - Golden gating (https://www.anthropic.com/research/golden-gate-claude)
 - Play with decision models:
