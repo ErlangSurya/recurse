@@ -33,4 +33,9 @@
 - A non-trivial fast program i.e. not python slop. Probably just try to solve 1000000 Rubik's cube scramble as fast as possible on my machine.
 - Figure out how Generative Engine Optimization (GEO) works:
   - I have a small website for Indonesian math contest problems and results, might be fun to GEO-maxx the site.
-- Learn some formal verification. I'm not here to play school though so hopefully I can figure out a nice project to build around this topic.
+ 
+
+## Learning
+I'm not here to play school so hopefully I can figure out a nice project to build around these topics.
+- Formal verification: Broadly speaking my goal is to understand what formally verifying software (at scale with AI) really means.
+- Cybersecurity: Baseline goal is to be able to parse CVE announcements and get some idea what's happening and how much I should freak out. No clue how to get there. I like learning by doing. Does doing CTF help?
