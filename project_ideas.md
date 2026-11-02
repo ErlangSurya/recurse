@@ -2,13 +2,14 @@
 ## AI
 - Learn just enough theory to train GPT-2 and understand its mechanism.
 - fine-tune/modify LLM models:
-  - Watermarking. Humanizing
+  - Golden gating (https://www.anthropic.com/research/golden-gate-claude). I will be "recurse centering" the smallest model that's amenable to this technique.
+  - Watermarking (look into SynthID). Humanizing
   - Removing (or adding??) censorship
-  - Golden gating (https://www.anthropic.com/research/golden-gate-claude)
 - Play with decision models:
   - Build a calibration benchmark using elementary probability problems
   - Create harness that improves probability calibration
 - Play with embedding models:
+  - RAG on major religious texts
   - Draw my thing with AI judge. Try to gain better understanding of model, score distribution, modality gap, etc in the process.
 - Small RL model that can play bullet (https://erlangsurya.com/fun/raylib-game/)
   - Probably will use Puffer https://puffer.ai/
@@ -27,7 +28,6 @@
 - Rubik’s cube blindfolded solving trainer
 - Generative art (https://erlangsurya.com/fun/tools/)
 - AI proof captcha
-- RAG on major religious texts
 - Make OG lemonade tycoon natively playable on modern mac.
 - Memory trainer: Shuffle a deck of card, turn the card sequence to PAO (maybe with LLM!)
 - A non-trivial fast program i.e. not python slop. Probably just try to solve 1000000 Rubik's cube scramble as fast as possible on my machine.
