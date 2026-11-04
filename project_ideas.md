@@ -39,3 +39,4 @@
 I'm not here to play school so hopefully I can figure out a nice project to build around these topics.
 - Formal verification: Broadly speaking my goal is to understand what formally verifying software (at scale with AI) really means.
 - Cybersecurity: Baseline goal is to be able to parse CVE announcements and get some idea what's happening and how much I should freak out. No clue how to get there. I like learning by doing. Does doing CTF help?
+- Real application of compressed sensing. Might be presentation worthy :o
