@@ -1,3 +1,4 @@
 /internal
 *.ipynb
 .DS_Store
+/output/
