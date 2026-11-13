@@ -13,6 +13,7 @@
   - Draw my thing with AI judge. Try to gain better understanding of model, score distribution, modality gap, etc in the process.
 - Small RL model that can play bullet (https://erlangsurya.com/fun/raylib-game/)
   - Probably will use Puffer https://puffer.ai/
+- Pangram for sound...
 
 
 ## Networking, cybersecurity, hardware
